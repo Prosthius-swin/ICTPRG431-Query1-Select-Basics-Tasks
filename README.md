@@ -1,0 +1,1 @@
+# ICTPRG431-Query1-Select-Basics-Tasks
