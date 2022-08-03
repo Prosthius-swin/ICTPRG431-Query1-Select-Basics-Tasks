@@ -9,10 +9,10 @@
 -- For earlier Versions of SQL Server (e.g. SQL Server 2014) use the following instead
 
 /*
-CREATE DATABASE callum9468;
+CREATE DATABASE Query_1_Select_Basic_Tasks;
 GO
 
-USE callum9468;
+USE Query_1_Select_Basic_Tasks;
 GO
 */
 
